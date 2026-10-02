@@ -1,9 +1,9 @@
 {
-  "name": "Homework-quiz1",
+  "name": "Homework-EL3-1s",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/MartaTavera/Homework-quiz1",
+  "homepage": "https://github.com/MartaTavera/Homework-EL3-1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
